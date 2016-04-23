@@ -1,0 +1,16 @@
+name: KillM
+main: KillM\Main
+author: JNcom
+version: "1.0"
+api:
+- 1.13.0
+- 2.0.0
+
+commands:
+ ilovekoekiverymuchatthebeach:
+  permission: auto.auto
+  default: true
+
+permissions:
+ auto.auto:
+  default: true
